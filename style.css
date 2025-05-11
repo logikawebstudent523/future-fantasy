@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Pacifico&display=swap');
+
+body{
+  background-color: darkcyan;
+
+header h1{
+  color: white;
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+}
+
+header img{
+  width: 450px;
+  
+}
+
+main img{
+  width: 230px
+}
+
+main p{
+  color: white;
+  text-align: left;
+  font-family: "Pacifico", cursive;
+  font-size: 20px
+}
+
+main h1{
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+}
+
+footer p{
+  color: yellow;
+  font-family: "Pacifico", cursive;
+  font-size: 20px
+}
+
+footer img{
+  width: 320px
+}
+
+footer h1{
+  color: darkblue;
+  font-family: "Great Vibes", cursive;
+  text-align: center;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+main {
+    text-align: center;
+    color: white;
+}
